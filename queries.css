@@ -123,6 +123,10 @@
   .decision-left span {
     text-align: center;
   }
+
+  .content h1 {
+    font-size: 2rem;
+  }
 }
 
 /* 600px */
@@ -147,6 +151,10 @@
 @media (max-width: 31.25em) {
   .wrapper h2 {
     font-size: 2.4rem;
+  }
+
+  .content h1 {
+    font-size: 1.6rem;
   }
 }
 
@@ -204,6 +212,11 @@
 
   .intro h2 {
     font-size: 1.8rem;
+  }
+
+  .content h1 {
+    font-size: 2rem;
+    text-align: center;
   }
 }
 
